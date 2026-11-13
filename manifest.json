@@ -1,0 +1,16 @@
+{
+  "name": "DJ's LIFE & MONEY HUB",
+  "short_name": "DJ Money Hub",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0e1512",
+  "theme_color": "#101916",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
